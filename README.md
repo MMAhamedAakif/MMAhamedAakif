@@ -3,25 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&width=600&lines=Software+Developer;Flutter+%7C+Web+Developer;Open+Source+Enthusiast;Always+Learning+New+Things)](https://git.io/typing-svg) \
 
 
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="400" alt="coding gif">
-<img src="<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="400" alt="coding gif">
-" width="400" alt="coding gif">
-
-
 ---
-
-## 🚀 About Me  
-
-
-<img align="right" src="
-" width="250">
-
-- 🎓 Studying **BICT (Hons)** at *University of Sri Jayewardenepura*  
-- 💻 Skilled in **Frontend (React, HTML, CSS, JS)** and **Backend (Node.js, MongoDB, Express)**  
-- 🤖 Exploring **Artificial Intelligence & Data Science**  
-- ⚡ Fun fact: I love solving real-world problems with code!  
-
----
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDA3ZXc0ZDZwY3g4emMzZTJwZDF1ZTZ6ZnhmOG40dWNwOWc3bWNqYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Flutter" width="400" align='right'>
 
 ## 💻 About Me
 - 🎓 Undergraduate at **University of Sri Jayewardenepura**  
