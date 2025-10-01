@@ -2,8 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&width=600&lines=Software+Developer;Flutter+%7C+Web+Developer;Open+Source+Enthusiast;Always+Learning+New+Things)](https://git.io/typing-svg) \
 
-![Funny gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHUzMDl3aHM3cWc0Z3E2ZTRkenR6NWxtOW44bWljYzg0ZDdqeTVrMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif)
-![Funny gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3NmOHMwcG96ZnBnajJjcTd1anF6YnZjOTBjc2RvcDk3Z3dqZnRvYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GghGKaZ8JeHJx0apQC/giphy.gif)
+![Funny gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzlrcGxsajVyZjhwejNpamhiYmoyZDYyejhldzQwdjU4NWl4MHEwdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
 
 
 ---
