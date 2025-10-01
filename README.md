@@ -1,6 +1,10 @@
 # Hi there, I'm Aakif 👋  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&width=600&lines=Software+Developer;Flutter+%7C+Web+Developer;Open+Source+Enthusiast;Always+Learning+New+Things)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&width=600&lines=Software+Developer;Flutter+%7C+Web+Developer;Open+Source+Enthusiast;Always+Learning+New+Things)](https://git.io/typing-svg) \
+
+![Funny gif](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+![Profile Banner](https://github.com/your-username/your-username/blob/main/banner.png)
+
 
 ---
 
@@ -65,9 +69,3 @@
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)  
 
 ---
-
-⭐️ From [Akif](https://github.com/Akif)
-
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
