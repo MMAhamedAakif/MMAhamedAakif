@@ -2,7 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&width=600&lines=Software+Developer;Flutter+%7C+Web+Developer;Open+Source+Enthusiast;Always+Learning+New+Things)](https://git.io/typing-svg) \
 
-![Funny gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzlrcGxsajVyZjhwejNpamhiYmoyZDYyejhldzQwdjU4NWl4MHEwdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
+
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="400" alt="coding gif">
+<img src="<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="400" alt="coding gif">
+" width="400" alt="coding gif">
 
 
 ---
