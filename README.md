@@ -1,6 +1,6 @@
 # Hi there, I'm Aakif 👋  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&width=600&lines=Software+Developer;Flutter+%7C+Web+Developer;Open+Source+Enthusiast;Always+Learning+New+Things)](https://git.io/typing-svg) \
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&width=600&lines=Software+Developer;Flutter+%7C+Web+Developer;Open+Source+Enthusiast;Always+Learning+New+Things)](https://git.io/typing-svg) 
 
 
 ---
