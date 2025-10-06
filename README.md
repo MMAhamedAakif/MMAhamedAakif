@@ -9,7 +9,7 @@
 ## 💻 About Me
 - 🎓 Undergraduate at **University of Sri Jayewardenepura**  
 - 📚 Reading for **BSc (Hons) in Information and Communication Technology (BICT)**
- - 👨‍💻 All of my projects are available at [https://ahamedaakif.vercel.app/](https://ahamedaakif.vercel.app/)
+ - 👨‍💻 My portfolio- [https://ahamedaakif.vercel.app/](https://ahamedaakif.vercel.app/)
 - 📄 Know about my experiences [www.linkedin.com/in/mmaakif23) 
 - 🔭 Currently working on **Web & Mobile Development**  
 - 🌱 Learning **AI, Flutter, MEAN/MERN Stack, Firebase, and Cloud Technologies**  
